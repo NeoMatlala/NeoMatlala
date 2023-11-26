@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NeoMatlala/](https://github.com/NeoMatlala/)
 
-- 💬 Ask me about **Frontend development & UI/UX design**
+- 💬 Ask me about **.NET Core, Frontend development & UI/UX design**
 
 - 📫 How to reach me **neomatlala70@gmail.com**
 
