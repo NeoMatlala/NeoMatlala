@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neomatlala&label=Profile%20views&color=0e75b6&style=flat" alt="neomatlala" /> </p>
 
-- 🌱 I’m currently learning **React & Vue, C# .NET Core**
+- 🌱 I’m currently learning **Angular, React & Vue, C# .NET Core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NeoMatlala/](https://github.com/NeoMatlala/)
 
